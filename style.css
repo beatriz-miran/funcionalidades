@@ -18,7 +18,8 @@ h1, h2{
 }
 
 body{
-    background-color: var(--cor-background);
+    
+    background-image: url("https://images7.alphacoders.com/135/1351260.png");
     width: 100%;
 }
 
@@ -41,7 +42,6 @@ a{
     justify-content: center;
     display: flex;
     align-items: center;
-    background-image: url("https://images7.alphacoders.com/135/1351260.png");
 }
 .principal{
     display: flex;
